@@ -17,6 +17,11 @@ This implementation automatically captures every error in your Laravel applicati
 <img src="https://cdn-images-1.medium.com/max/800/1*ELqsEByJyJtdRFdI_SRH8g.png" alt="Error Logging Dashboard" width="800"/>
 </p>
 
+# 🏷️ This file is part of a series of articles on Medium
+
+> - [📖 **How to Integrate Elasticsearch with Laravel: A Step-by-Step Guide**](https://medium.com/@murilolivorato/how-to-integrate-elasticsearch-with-laravel-a-step-by-step-guide-e98f0cec7d9a)
+> - [Using Elasticsearch for Effective Laravel Error Logging](https://medium.com/@murilolivorato/using-elasticsearch-for-effective-laravel-error-logging-b7d34bf0db90)
+> - [Mastering Exception Handling in Laravel 12: Centralized Error Management Guide](https://medium.com/@murilolivorato/mastering-exception-handling-in-laravel-12-centralized-error-management-guide-95df500cb4ba)
 ## 📋 Table of Contents
 
 - [✨ Features](#-features)
@@ -207,9 +212,6 @@ ELASTICSEARCH_PASSWORD=your_secure_password
    - Limit stack trace information
    - Filter request data
 
-- 📖 [How to Integrate Elasticsearch with Laravel: A Step-by-Step Guide](https://medium.com/@murilolivorato/how-to-integrate-elasticsearch-with-laravel-a-step-by-step-guide-e98f0cec7d9a)
-- 📖 [Using Elasticsearch for Effective Laravel Error Logging](https://medium.com/@murilolivorato/)
-- 📖 [Mastering Exception Handling in Laravel 12: Centralized Error Management Guide](https://medium.com/@murilolivorato/)
 
 ## ⭐ Best Practices
 
