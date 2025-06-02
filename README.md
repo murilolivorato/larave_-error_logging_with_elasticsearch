@@ -7,8 +7,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@murilolivorato)
-[![GitHub Stars](https://img.shields.io/github/stars/murilolivorato/laravel_sso?style=social)](https://github.com/murilolivorato/laravel_sso/stargazers)
-
+[![GitHub Stars](https://img.shields.io/github/stars/murilolivorato/larave_error_logging_with_elasticsearch?style=social)](https://github.com/murilolivorato/larave_error_logging_with_elasticsearch/stargazers)
 </div>
 
 This implementation automatically captures every error in your Laravel application and stores it in Elasticsearch, providing powerful search capabilities, real-time monitoring, and comprehensive error analytics that will transform how you debug and maintain your applications.
@@ -244,9 +243,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 <div align="center">
   <h3>⭐ Star This Repository ⭐</h3>
   <p>Your support helps us improve and maintain this project!</p>
-  <a href="https://github.com/murilolivorato/laravel_sso/stargazers">
-    <img src="https://img.shields.io/github/stars/murilolivorato/laravel_sso?style=social" alt="GitHub Stars">
-  </a>
+  <a href="https://github.com/murilolivorato/larave_error_logging_with_elasticsearch/stargazers">
+    <img src="https://img.shields.io/github/stars/murilolivorato/larave_error_logging_with_elasticsearch?style=social" alt="GitHub Stars">
+   </a>
 </div>
 
 
